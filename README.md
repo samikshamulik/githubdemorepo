@@ -1,4 +1,4 @@
 # githubdemorepo
-Samiksha Mulik
+Samiksha Mulik - Author
 <br>
 Github tutorial
